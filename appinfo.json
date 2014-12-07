@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "CARRYER.ME",
+    "longName": "Fredsistance",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Coda-Regular.ttf",
+                "name": "CODA_REGULAR_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Coda-Heavy.ttf",
+                "name": "CODA_HEAVY_24",
+                "type": "font"
+            },
+            {
+                "file": "images/Fredsistance Watchface.png",
+                "name": "WATCHFACE_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Fredsistance",
+    "uuid": "46b9b98a-f6f3-4c2d-ac20-376661a6eb91",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
