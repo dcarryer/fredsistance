@@ -5,21 +5,20 @@
  *    Created: December 4, 2014
  *    Copyright 2014 David Carryer
  *    
- *    This file is part of the Fredsistance Pebble Watchface.
+ *    This file is part of the Fredsistance Pebble Watchface (FPW).
  * 
- *    Foobar is free software: you can redistribute it and/or modify it under 
+ *    FPW is free software: you can redistribute it and/or modify it under 
  *    the terms of the GNU General Public License as published by the Free 
  *    Software Foundation, either version 3 of the License, or (at your option) 
  *    any later version.
  *
- *    Foobar is distributed in the hope that it will be useful, but WITHOUT 
+ *    FPW is distributed in the hope that it will be useful, but WITHOUT 
  *    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or 
  *    FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for 
  *    more details.
  *  
  *    You should have received a copy of the GNU General Public License along 
- *    with the Fredsistance Pebble Watchface source code. If not, 
- *    see http://www.gnu.org/licenses/.
+ *    with the FPW source code. If not, see http://www.gnu.org/licenses/.
  */
 
 // Main directive to use the Pebble SDK
